@@ -1,9 +1,9 @@
 class ReflectionsBin < Formula
   desc "A terminal-based work journaling app with calendar sync"
   homepage "https://github.com/Fizzizist/reflections"
-  version "1.6.6"
+  version "1.6.7"
   url "https://peter.vlasveld.info/releases/reflections/reflections-v#{version}-aarch64-apple-darwin.tar.gz"
-  sha256 "7bda837dc8bae6ee20103b1ba49094ff9757a803b9acb0288f289d1e55242e85"
+  sha256 "6ede0d026afc89cca7e694c0a7c94738dc7b1cfa074f7fdb478368dd74df2aee"
   license "MIT"
 
   def install
